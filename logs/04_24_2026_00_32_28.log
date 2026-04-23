@@ -1,0 +1,2 @@
+[ 2026-04-24 00:32:28,970 ] root - INFO - unsupported operand type(s) for +: 'int' and 'str'
+[ 2026-04-24 00:32:28,972 ] root - ERROR - Error occurred in python script: [C:\Users\Pranav Vinod\Desktop\vehi_insur\demo.py] at line number [17]: unsupported operand type(s) for +: 'int' and 'str'
