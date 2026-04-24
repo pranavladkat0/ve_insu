@@ -19,4 +19,11 @@ uvicorn
 jinja2
 imblearn
 -e .
+flask
+numpy
+pandas
+scikit-learn
+imblearn
+gunicorn
+
 #mongodb+srv://<db_username>:<db_password>@cluster0.ru4kbcw.mongodb.net/?appName=Cluster0
